@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "server.js": "^1.0.0",
+    "vk-io": "^4.4.0",
+    "vk.js": "^0.1.1"
+  }
+}
